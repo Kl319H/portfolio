@@ -1,0 +1,44 @@
+body {
+  margin: 20px 0 20px 0;
+  font-family: 'Lato', sans-serif;
+}
+
+hr {
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+h1 {
+  font-weight: lighter !important;
+  color: #747704;
+  margin-top: 0;
+}
+
+h2 {
+  font-weight: lighter !important;
+  color: #8a8080;
+}
+
+h3,
+h4 {
+  color: #747704;
+}
+
+a {
+  font-size: 16px;
+}
+
+.sm-lr-margin {
+  margin: 15px 0 15px 0;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar-btn span {
+  font-size: 24px;
+}
